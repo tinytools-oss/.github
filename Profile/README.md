@@ -23,9 +23,9 @@ Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
 ## 📬 Contact Us
 
-- 🌐 GitHub: [TinyTools OSS](https://github.com/TinyToolsOSS)
-- 📧 Email: Tinytoolsoss@outlook.de
-- 📍 Location: Germany
+- 🌐 GitHub: [TinyTools OSS](https://github.com/tinytools-oss)
+- 📧 Email: tinytoolsoss@outlook.de
+- 📍 Location: Germany, Hanover 
 
 ## 📄 License
 
