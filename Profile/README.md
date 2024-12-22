@@ -1,15 +1,36 @@
-<div align="center">
+![TinyTools OSS Logo](./banner.png)
 
-<img src="../logo.png" alt="Discuzz Logo" width="200" height="200">
+# TinyTools OSS 🛠️
 
-# Discuzz
+Welcome to TinyTools OSS! ✨ We're a community focused on creating small, powerful tools that make developers', customers', and businesses' lives easier. Our philosophy is simple: high-quality, cutting-edge technology doesn't have to be complicated.
 
-Discuzz is an open-source software organization dedicated to creating customizable and self-deployable solutions for communication and development needs. Our goal is to empower communities and developers with flexible, user-friendly tools that put control in your hands.
+## 🎯 Our Mission
 
-## Contact Us
+We believe in the power of simplicity. Each tool in our collection solves a specific problem really well, without unnecessary complexity. Whether you're a developer streamlining your workflow, a business optimizing operations, or a customer looking for efficient solutions, you'll find valuable tools here.
 
-For inquiries and support, reach out to us at:  
-**Email:** [Discuzz@outlook.de](mailto:Discuzz@outlook.de)  
-**Website:** [https://discuzz.stillcoming](https://discuzz.stillcoming)
+## 🚀 What We Build
 
-</div>
+- 💻 Developer tools that boost productivity
+- 🏢 Business solutions that simplify operations
+- 👥 Customer-facing applications that just work
+- 🔄 Integration utilities that connect systems seamlessly
+
+## 🤝 Join Our Community
+
+We're always excited to welcome new contributors! Whether you're fixing bugs, adding features, or improving documentation, your help makes TinyTools better for everyone.
+
+Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
+
+## 📬 Contact Us
+
+- 🌐 GitHub: [TinyTools OSS](https://github.com/TinyToolsOSS)
+- 📧 Email: Tinytoolsoss@outlook.de
+- 📍 Location: Germany
+
+## 📄 License
+
+All our projects are open source. Check individual repositories for specific license information.
+
+## 📜 Code of Conduct
+
+We're committed to providing a welcoming and inclusive environment. Please read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
