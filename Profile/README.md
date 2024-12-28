@@ -19,7 +19,6 @@ We believe in the power of simplicity. Each tool in our collection solves a spec
 
 We're always excited to welcome new contributors! Whether you're fixing bugs, adding features, or improving documentation, your help makes TinyTools better for everyone.
 
-Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
 ## 📬 Contact Us
 
