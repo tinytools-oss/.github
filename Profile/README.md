@@ -1,4 +1,4 @@
-![TinyTools OSS Logo](./banner.png)
+![TinyTools OSS Logo](https://github.com/tinytools-oss/.github/blob/main/Profile/banner.png)
 
 # TinyTools OSS 🛠️
 
